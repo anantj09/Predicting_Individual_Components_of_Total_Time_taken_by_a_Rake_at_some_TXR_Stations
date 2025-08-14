@@ -7,12 +7,12 @@ While the methodology is applicable across multiple stations, the initial analys
 
 ## ✨ Key Features
 
-#### Multi-Station Analysis: Models are developed for various TXR stations to provide a scalable solution.
-#### Component Prediction: Utilizes machine learning to forecast key operational durations:
-- Arrival to Placement
-- Placement to Release
-- Release to Departure
-#### Advanced Feature Engineering: Goes beyond standard features by creating:
-#### Cyclical Time Components: Encodes time-of-day and day-of-week patterns.
-#### Rake Type Encodings: Differentiates between various types of rakes.
-#### Congestion Metrics: A novel approach to measure real-time station occupancy and bottlenecks.
+- Multi-Station Analysis: Models are developed for various TXR stations to provide a scalable solution.
+- Component Prediction: Utilizes machine learning to forecast key operational durations:
+    - Arrival to Placement
+    - Placement to Release
+    - Release to Departure
+- Advanced Feature Engineering: Goes beyond standard features by creating:
+- Cyclical Time Components: Encodes time-of-day and day-of-week patterns.
+- Rake Type Encodings: Differentiates between various types of rakes.
+- Congestion Metrics: A novel approach to measure real-time station occupancy and bottlenecks.
